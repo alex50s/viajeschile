@@ -17,3 +17,9 @@ body {
 .title-present{
     font-weight: 700;
 }
+
+/*destacados*/
+
+.card-img-top{
+    aspect-ratio: 5/4;
+}
