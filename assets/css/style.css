@@ -8,6 +8,13 @@ body {
     color: #fff;
 }
 
+/* Navbar */
+.nav-black{
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+}
+
 /* Carrousel */
 .carrousel{
     aspect-ratio: 5/3;
@@ -22,4 +29,11 @@ body {
 
 .card-img-top{
     aspect-ratio: 5/4;
+}
+
+/*footer*/
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
